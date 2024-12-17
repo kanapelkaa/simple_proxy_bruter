@@ -1,4 +1,4 @@
-# Simle proxy bruter
+# Simple proxy bruter
 
 
 ## Описание 
@@ -9,5 +9,11 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone [https://github.com/ваш-репозиторий](https://github.com/kanapelkaa/simple_proxy_bruter)
+   git clone https://github.com/kanapelkaa/simple_proxy_bruter
+2. Скачиватйе все зависимости
+   ```bash
+   pip install -r requirements.txt
+3. Загрузите прокси для брута в файл proxy.txt
+4. py main.py
+   
 # Проект создан для конкурса на форуме lolz.live
