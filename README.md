@@ -10,6 +10,4 @@
 1. Клонируйте репозиторий:
    ```bash
    git clone [https://github.com/ваш-репозиторий](https://github.com/kanapelkaa/simple_proxy_bruter)
-
-
 # Проект создан для конкурса на форуме lolz.live
